@@ -1,0 +1,14 @@
+C:\Users\mashw\source\repos\data checking\student marks  result\bin\Debug\net8.0\student marks  result.exe
+C:\Users\mashw\source\repos\data checking\student marks  result\bin\Debug\net8.0\student marks  result.deps.json
+C:\Users\mashw\source\repos\data checking\student marks  result\bin\Debug\net8.0\student marks  result.runtimeconfig.json
+C:\Users\mashw\source\repos\data checking\student marks  result\bin\Debug\net8.0\student marks  result.dll
+C:\Users\mashw\source\repos\data checking\student marks  result\bin\Debug\net8.0\student marks  result.pdb
+C:\Users\mashw\source\repos\data checking\student marks  result\obj\Debug\net8.0\student marks  result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mashw\source\repos\data checking\student marks  result\obj\Debug\net8.0\student marks  result.AssemblyInfoInputs.cache
+C:\Users\mashw\source\repos\data checking\student marks  result\obj\Debug\net8.0\student marks  result.AssemblyInfo.cs
+C:\Users\mashw\source\repos\data checking\student marks  result\obj\Debug\net8.0\student marks  result.csproj.CoreCompileInputs.cache
+C:\Users\mashw\source\repos\data checking\student marks  result\obj\Debug\net8.0\student marks  result.dll
+C:\Users\mashw\source\repos\data checking\student marks  result\obj\Debug\net8.0\refint\student marks  result.dll
+C:\Users\mashw\source\repos\data checking\student marks  result\obj\Debug\net8.0\student marks  result.pdb
+C:\Users\mashw\source\repos\data checking\student marks  result\obj\Debug\net8.0\student marks  result.genruntimeconfig.cache
+C:\Users\mashw\source\repos\data checking\student marks  result\obj\Debug\net8.0\ref\student marks  result.dll
