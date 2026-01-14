@@ -47,7 +47,7 @@ namespace FinalCourseFee
             }
 
             // results
-            Console.WriteLine("\n--- Final Results ---");
+            Console.WriteLine("\n--- Final Results 1 ---");
             for (int i = 0; i < n; i++)
             {
                 double discount = 0;
