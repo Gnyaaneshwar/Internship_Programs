@@ -1,0 +1,14 @@
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\bin\Debug\net8.0\sem exam eligibility.exe
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\bin\Debug\net8.0\sem exam eligibility.deps.json
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\bin\Debug\net8.0\sem exam eligibility.runtimeconfig.json
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\bin\Debug\net8.0\sem exam eligibility.dll
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\bin\Debug\net8.0\sem exam eligibility.pdb
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\obj\Debug\net8.0\sem exam eligibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\obj\Debug\net8.0\sem exam eligibility.AssemblyInfoInputs.cache
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\obj\Debug\net8.0\sem exam eligibility.AssemblyInfo.cs
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\obj\Debug\net8.0\sem exam eligibility.csproj.CoreCompileInputs.cache
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\obj\Debug\net8.0\sem exam eligibility.dll
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\obj\Debug\net8.0\refint\sem exam eligibility.dll
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\obj\Debug\net8.0\sem exam eligibility.pdb
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\obj\Debug\net8.0\sem exam eligibility.genruntimeconfig.cache
+C:\Users\mashw\source\repos\sem exam eligibility\sem exam eligibility\obj\Debug\net8.0\ref\sem exam eligibility.dll
