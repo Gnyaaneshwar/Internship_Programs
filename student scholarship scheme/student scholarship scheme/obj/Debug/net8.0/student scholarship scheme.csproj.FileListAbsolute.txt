@@ -1,0 +1,14 @@
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\bin\Debug\net8.0\student scholarship scheme.exe
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\bin\Debug\net8.0\student scholarship scheme.deps.json
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\bin\Debug\net8.0\student scholarship scheme.runtimeconfig.json
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\bin\Debug\net8.0\student scholarship scheme.dll
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\bin\Debug\net8.0\student scholarship scheme.pdb
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\obj\Debug\net8.0\student scholarship scheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\obj\Debug\net8.0\student scholarship scheme.AssemblyInfoInputs.cache
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\obj\Debug\net8.0\student scholarship scheme.AssemblyInfo.cs
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\obj\Debug\net8.0\student scholarship scheme.csproj.CoreCompileInputs.cache
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\obj\Debug\net8.0\student scholarship scheme.dll
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\obj\Debug\net8.0\refint\student scholarship scheme.dll
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\obj\Debug\net8.0\student scholarship scheme.pdb
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\obj\Debug\net8.0\student scholarship scheme.genruntimeconfig.cache
+C:\Users\mashw\source\repos\student scholarship scheme\student scholarship scheme\obj\Debug\net8.0\ref\student scholarship scheme.dll
