@@ -1,0 +1,14 @@
+C:\Users\mashw\source\repos\data checking\add 2 numbers\obj\Debug\net8.0\add 2 numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mashw\source\repos\data checking\add 2 numbers\obj\Debug\net8.0\add 2 numbers.AssemblyInfoInputs.cache
+C:\Users\mashw\source\repos\data checking\add 2 numbers\obj\Debug\net8.0\add 2 numbers.AssemblyInfo.cs
+C:\Users\mashw\source\repos\data checking\add 2 numbers\obj\Debug\net8.0\add 2 numbers.csproj.CoreCompileInputs.cache
+C:\Users\mashw\source\repos\data checking\add 2 numbers\bin\Debug\net8.0\add 2 numbers.exe
+C:\Users\mashw\source\repos\data checking\add 2 numbers\bin\Debug\net8.0\add 2 numbers.deps.json
+C:\Users\mashw\source\repos\data checking\add 2 numbers\bin\Debug\net8.0\add 2 numbers.runtimeconfig.json
+C:\Users\mashw\source\repos\data checking\add 2 numbers\bin\Debug\net8.0\add 2 numbers.dll
+C:\Users\mashw\source\repos\data checking\add 2 numbers\bin\Debug\net8.0\add 2 numbers.pdb
+C:\Users\mashw\source\repos\data checking\add 2 numbers\obj\Debug\net8.0\add 2 numbers.dll
+C:\Users\mashw\source\repos\data checking\add 2 numbers\obj\Debug\net8.0\refint\add 2 numbers.dll
+C:\Users\mashw\source\repos\data checking\add 2 numbers\obj\Debug\net8.0\add 2 numbers.pdb
+C:\Users\mashw\source\repos\data checking\add 2 numbers\obj\Debug\net8.0\add 2 numbers.genruntimeconfig.cache
+C:\Users\mashw\source\repos\data checking\add 2 numbers\obj\Debug\net8.0\ref\add 2 numbers.dll
